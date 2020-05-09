@@ -1,0 +1,39 @@
+#footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: $color1;
+
+    margin: 4rem 0 0;
+    padding: 6px 1.5rem;
+
+    .footer-credits {
+        margin: 0;
+    }
+    .links-list {
+        display: flex;
+        
+        .contact-icon {
+            height: 20px;
+            width: 20px;
+        }
+        i {
+            height: 16px;
+            width: 16px;
+        }
+        & > * {
+            margin-right: 1rem;
+        }
+    }
+
+    @media (max-width: 500px) {
+        flex-direction: column;
+        justify-content: center;
+
+        .link-list {
+            margin-top: 1rem;
+        }
+    }
+}

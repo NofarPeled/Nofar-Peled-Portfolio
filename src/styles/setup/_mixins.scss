@@ -1,0 +1,40 @@
+@mixin section-title {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-family: $regular_font;
+    margin-bottom: 1rem;
+}
+
+@mixin  section-content {
+    font-family: $light_font;
+}
+
+@mixin jumping-animation {
+    @keyframes jumping {
+        0%   {top: 80%; color: white;}
+        50%  {top: 81%; color: black}
+        100% {top: 80%; color: white;}
+    }
+    animation: jumping 1s infinite ease-in 0.65ms;
+}
+
+@mixin section-header {
+    font-size: 1.75rem;
+    text-align: center;
+    font-family: $light_italic_font;
+    font-weight: 900;
+}
+
+@mixin btn-style {
+    background:linear-gradient(to bottom, #5ccfe6 5%, #18a8c2 100%);
+    background-color:#5ccfe6;
+    border-radius:4px;
+    color:#ffffff;
+    padding:6px 15px;
+    text-shadow:0px 1px 0px #00849e;
+
+    &:hover {
+        background:linear-gradient(to bottom, #18a8c2 5%, #5ccfe6 100%);
+        background-color:#18a8c2;
+    }
+}

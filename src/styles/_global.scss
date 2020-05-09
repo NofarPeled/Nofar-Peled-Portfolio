@@ -1,0 +1,22 @@
+// SETUP
+@import "setup/variables";
+@import "setup/mixins";
+
+// BASICS
+@import "basics/base";
+@import "basics/typography";
+
+// PAGES
+@import "pages/home-page";
+
+// COMPONENTS
+@import "components/header";
+@import "components/sectionHeader";
+@import "components/mainNavbar";
+@import "components/skillsList";
+@import "components/skillsPreview";
+@import "components/projectsList";
+@import "components/projectPreview";
+@import "components/about";
+@import "components/contact";
+@import "components/footer";

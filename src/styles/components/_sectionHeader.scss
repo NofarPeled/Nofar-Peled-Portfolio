@@ -1,0 +1,65 @@
+.section-header {
+    .title {
+        width: 90vw;
+        margin: 0 5vw;
+        padding: 20px;
+    
+        text-align: center;
+        letter-spacing: 7px;
+        text-transform: uppercase;
+        font-size: 1.75rem;
+        font-family: $regular-font;
+        color:white;
+        background-color: $color3-with-opacity;
+    }
+    
+}
+
+.header-background-image {
+    height: 86vh;
+    background-image: url('../../assets/images/backgrounds/sea-side.jpg');
+    clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);    
+}
+        
+.skills-background-image {
+    margin-top: 0;
+    background-image: url('../../assets/images/backgrounds/forest.jpg');
+}
+        
+.projects-background-image {
+    margin: 3rem 0;
+    background-image: url('../../assets/images/backgrounds/rock-river.jpg');
+}
+        
+.about-background-image {
+    margin: 3rem 0;
+    background-image: url('../../assets/images/backgrounds/sea-side.jpg');
+}
+        
+.contact-background-image {
+    margin: 3rem 0;
+    background-image: url('../../assets/images/backgrounds/skyscraper.jpg');
+}
+
+.skills-background-image, .projects-background-image, .about-background-image, .contact-background-image {
+    height: 50vh;
+    clip-path: polygon(0% 100%, 100% 80%,100% 0%,0% 20%);   
+
+}
+.header-background-image, .skills-background-image, .projects-background-image, .about-background-image, .contact-background-image{
+    width: 100vw;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+        
+   opacity: 0.80;
+        
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+            
+    @media (max-width: 750px) {
+        background-attachment: scroll;
+    }
+}

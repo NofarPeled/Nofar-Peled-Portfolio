@@ -1,0 +1,30 @@
+#header {
+    width: 100vw;
+
+
+    .logo-name-div {
+        
+        width: 100vw;
+        padding: 6px 20px 0px;       
+        background: rgba(255, 255, 255, 0.5);
+        
+        z-index: 2;
+        position: fixed;
+        top: 0;
+        left: 0;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .name {
+            font-size: 2.5rem;
+            text-transform: uppercase;
+        }
+
+        .header-logo {
+            height: 8vh;
+        }
+    }
+
+}

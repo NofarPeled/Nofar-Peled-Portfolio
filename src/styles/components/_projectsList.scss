@@ -1,0 +1,17 @@
+#projects {
+    .projects-list {
+        & > * {
+            height: fit-content;
+            
+            &:not(:last-child) {
+                border-bottom: 1px solid $color3-with-opacity;
+            }
+
+            @media (max-width: 800px) {
+                height: fit-content;
+            }            
+        }
+
+    }
+
+}

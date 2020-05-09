@@ -1,0 +1,20 @@
+.skill-preview {
+    max-width: 250px;
+    text-align: center;
+    margin: 2rem;
+
+    .skill-image {
+        width: 100px;
+        height: 100px;
+    }
+    
+    .skill-title, .skill-description{
+        margin: 1rem 0 0;    
+    }
+
+    @media (max-width: 700px) {
+        margin: 2rem;
+        flex-direction: column;
+        align-items: center;
+    }
+}
