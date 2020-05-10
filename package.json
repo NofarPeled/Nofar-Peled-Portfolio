@@ -37,5 +37,6 @@
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
-  }
+  },
+  "homepage": "https://nofarpeled.github.io/Nofar-Peled-Portfolio"
 }
