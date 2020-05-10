@@ -34,11 +34,20 @@ const portfolio = {
         {
             _id: '0jeueeIVJKN',
             title: 'Covid 19 Tracker',
-            description: 'This App Will Allow You to Track the Coronavirus Spread in Your Country and all Around the World. this App Created Using React Hooks, Redux & SCSS at the Frontend, and Node JS with Express, MongoDB as the Data Base and Selenium Web Driver to Scape the Data Table from Public Coronavirus Tracker Website at the Backend.',
+            description: 'This App Will Allow You to Track the Coronavirus Spread in Your Country and all Around the World. This App Created Using React Hooks, Redux & SCSS at the Frontend, and Node JS with Express, MongoDB as the Data Base and Selenium Web Driver to Scape the Data Table from Public Coronavirus Tracker Website at the Backend.',
             imgUrl: 'covid-19',
-            tags: ['JavaScript', 'React', 'Hooks', 'Redux', 'Scss', 'NodeJS', 'ExpressJS', 'Selenium WebDriver', 'MongoDB'  ],
+            tags: ['JavaScript', 'React', 'Hooks', 'Redux', 'SCSS', 'NodeJS', 'ExpressJS', 'Selenium WebDriver', 'MongoDB'  ],
             codeUrl: 'https://github.com/NofarPeled/covid-19-tracker',
             webUrl: 'https://covid-19-tracker-np.herokuapp.com/'
+        },
+        {
+            _id: '0jeueeIVJKN',
+            title: 'Portfolio',
+            description: 'This is My Portfolio, You Will Be Able to Get to Know Me a Little Bit More Before Hiring. This App Created Using React Hooks, Redux and SCSS.',
+            imgUrl: 'portfolio',
+            tags: ['JavaScript', 'React', 'Hooks', 'Redux', 'SCSS'],
+            codeUrl: 'https://github.com/NofarPeled/Nofar-Peled-Portfolio',
+            webUrl: 'https://nofarpeled.github.io/Nofar-Peled-Portfolio'
         },
     ],
     technologies: [
