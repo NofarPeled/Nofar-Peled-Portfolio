@@ -11,11 +11,11 @@ import './styles/_global.scss'
 
 const App = () => {
   return (
-    <Router basename = { process.env.PUBLIC_URL }>
-      <div className="App">
+    <Router>
+      <div className = "App">
         <Header/>
-            <Route path = '/resume' component = { ResumePage }/>
-            <Route path = '/' component = { HomePage }/>
+            <Route path = { process.env.PUBLIC_URL + '/resume' }  component = { ResumePage }/>
+            <Route exact path = { process.env.PUBLIC_URL + '/' } component = { HomePage }/>
         <Footer/>
       </div>
     </Router>

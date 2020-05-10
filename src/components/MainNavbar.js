@@ -9,12 +9,12 @@ const MainNavbar = () => {
                 <i className="fas fa-bars"/>
             </button>
             <nav className = 'header-navbar'>
-                <a href = '/'>Home</a>
-                <a href = '/#skills'>Skills</a>
-                <a href = '/#projects'>Projects</a>
-                <a href = '/resume'>Resume</a>
-                <a href = '/#about'>About</a>
-                <a href = '/#contact'>Contact</a>
+                <a href = { process.env.PUBLIC_URL+'/' }>Home</a>
+                <a href = { process.env.PUBLIC_URL+'/#skills' }>Skills</a>
+                <a href = { process.env.PUBLIC_URL + '/#projects' }>Projects</a>
+                <a href = { process.env.PUBLIC_URL + '/resume' }>Resume</a> 
+                <a href = { process.env.PUBLIC_URL + '/#about' }>About</a>
+                <a href = { process.env.PUBLIC_URL + '/#contact' }>Contact</a>
             </nav>
         </section>
     )
