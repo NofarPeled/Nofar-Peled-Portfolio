@@ -12,7 +12,6 @@ const MainNavbar = () => {
                 <a href = { process.env.PUBLIC_URL+'/' }>Home</a>
                 <a href = { process.env.PUBLIC_URL+'/#skills' }>Skills</a>
                 <a href = { process.env.PUBLIC_URL + '/#projects' }>Projects</a>
-                <a href = { process.env.PUBLIC_URL + '/resume' }>Resume</a> 
                 <a href = { process.env.PUBLIC_URL + '/#about' }>About</a>
                 <a href = { process.env.PUBLIC_URL + '/#contact' }>Contact</a>
             </nav>
