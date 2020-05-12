@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb6a315e9513668b73a28c8a9fffb7f1",
+    "revision": "494629a6cabee67e29ca8717ea4130c3",
     "url": "/Nofar-Peled-Portfolio/index.html"
   },
   {
-    "revision": "b2d073cb29db9f478420",
-    "url": "/Nofar-Peled-Portfolio/static/css/main.5bc20394.chunk.css"
+    "revision": "f798cc32f63cac20f029",
+    "url": "/Nofar-Peled-Portfolio/static/css/main.277505d6.chunk.css"
   },
   {
-    "revision": "69fffa934c2f4a155532",
-    "url": "/Nofar-Peled-Portfolio/static/js/2.c87d0f57.chunk.js"
+    "revision": "cff2c32cf69a3a35ba0c",
+    "url": "/Nofar-Peled-Portfolio/static/js/2.23ef73f7.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Nofar-Peled-Portfolio/static/js/2.c87d0f57.chunk.js.LICENSE.txt"
+    "url": "/Nofar-Peled-Portfolio/static/js/2.23ef73f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b2d073cb29db9f478420",
-    "url": "/Nofar-Peled-Portfolio/static/js/main.a61a7b8d.chunk.js"
+    "revision": "f798cc32f63cac20f029",
+    "url": "/Nofar-Peled-Portfolio/static/js/main.325afc81.chunk.js"
   },
   {
     "revision": "9291fa08a34ad8ff4801",
@@ -88,6 +88,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nofar-Peled-Portfolio/static/media/logo.cd7b66cf.png"
   },
   {
+    "revision": "f60716058a8199d777e8502a72961611",
+    "url": "/Nofar-Peled-Portfolio/static/media/macosx.f6071605.png"
+  },
+  {
     "revision": "4373c35ca07c64699b623dc00f51d5e4",
     "url": "/Nofar-Peled-Portfolio/static/media/meme-generator.4373c35c.png"
   },
@@ -98,6 +102,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2fd3e69f258a4740341384e960239ec9",
     "url": "/Nofar-Peled-Portfolio/static/media/node.2fd3e69f.png"
+  },
+  {
+    "revision": "78dc4e703cd93ee3a473377dc2f0534e",
+    "url": "/Nofar-Peled-Portfolio/static/media/nofar.78dc4e70.png"
+  },
+  {
+    "revision": "c8b1f39355fb6c1ee34582b8ecc65370",
+    "url": "/Nofar-Peled-Portfolio/static/media/photoshop.c8b1f393.png"
   },
   {
     "revision": "50ec3fe85f05e24238166d2c42dabfa5",
@@ -146,5 +158,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5e36cf3bbaab7c93f8b62d7209305113",
     "url": "/Nofar-Peled-Portfolio/static/media/weather.5e36cf3b.png"
+  },
+  {
+    "revision": "07264a501e705f9202c9b463baacce31",
+    "url": "/Nofar-Peled-Portfolio/static/media/windows.07264a50.png"
   }
 ]);

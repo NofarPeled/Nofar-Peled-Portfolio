@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Nofar-Peled-Portfolio/static/css/main.5bc20394.chunk.css",
-    "main.js": "/Nofar-Peled-Portfolio/static/js/main.a61a7b8d.chunk.js",
-    "main.js.map": "/Nofar-Peled-Portfolio/static/js/main.a61a7b8d.chunk.js.map",
+    "main.css": "/Nofar-Peled-Portfolio/static/css/main.277505d6.chunk.css",
+    "main.js": "/Nofar-Peled-Portfolio/static/js/main.325afc81.chunk.js",
+    "main.js.map": "/Nofar-Peled-Portfolio/static/js/main.325afc81.chunk.js.map",
     "runtime-main.js": "/Nofar-Peled-Portfolio/static/js/runtime-main.f71720e0.js",
     "runtime-main.js.map": "/Nofar-Peled-Portfolio/static/js/runtime-main.f71720e0.js.map",
-    "static/js/2.c87d0f57.chunk.js": "/Nofar-Peled-Portfolio/static/js/2.c87d0f57.chunk.js",
-    "static/js/2.c87d0f57.chunk.js.map": "/Nofar-Peled-Portfolio/static/js/2.c87d0f57.chunk.js.map",
+    "static/js/2.23ef73f7.chunk.js": "/Nofar-Peled-Portfolio/static/js/2.23ef73f7.chunk.js",
+    "static/js/2.23ef73f7.chunk.js.map": "/Nofar-Peled-Portfolio/static/js/2.23ef73f7.chunk.js.map",
     "index.html": "/Nofar-Peled-Portfolio/index.html",
-    "precache-manifest.d04e0b5a275b3b5dee8a42680eb374a9.js": "/Nofar-Peled-Portfolio/precache-manifest.d04e0b5a275b3b5dee8a42680eb374a9.js",
+    "precache-manifest.a97fa8a846fa8aee56d6b241cf854a4a.js": "/Nofar-Peled-Portfolio/precache-manifest.a97fa8a846fa8aee56d6b241cf854a4a.js",
     "service-worker.js": "/Nofar-Peled-Portfolio/service-worker.js",
-    "static/css/main.5bc20394.chunk.css.map": "/Nofar-Peled-Portfolio/static/css/main.5bc20394.chunk.css.map",
-    "static/js/2.c87d0f57.chunk.js.LICENSE.txt": "/Nofar-Peled-Portfolio/static/js/2.c87d0f57.chunk.js.LICENSE.txt",
+    "static/css/main.277505d6.chunk.css.map": "/Nofar-Peled-Portfolio/static/css/main.277505d6.chunk.css.map",
+    "static/js/2.23ef73f7.chunk.js.LICENSE.txt": "/Nofar-Peled-Portfolio/static/js/2.23ef73f7.chunk.js.LICENSE.txt",
     "static/media/_global.scss": "/Nofar-Peled-Portfolio/static/media/skyscraper.957ca7a6.jpg",
     "static/media/askem.png": "/Nofar-Peled-Portfolio/static/media/askem.d576e9ce.png",
     "static/media/backend.png": "/Nofar-Peled-Portfolio/static/media/backend.7489a412.png",
@@ -24,9 +24,12 @@
     "static/media/html.png": "/Nofar-Peled-Portfolio/static/media/html.7cc44d45.png",
     "static/media/javascript.png": "/Nofar-Peled-Portfolio/static/media/javascript.e43c0631.png",
     "static/media/logo.png": "/Nofar-Peled-Portfolio/static/media/logo.cd7b66cf.png",
+    "static/media/macosx.png": "/Nofar-Peled-Portfolio/static/media/macosx.f6071605.png",
     "static/media/meme-generator.png": "/Nofar-Peled-Portfolio/static/media/meme-generator.4373c35c.png",
     "static/media/mongo.png": "/Nofar-Peled-Portfolio/static/media/mongo.95df12c9.png",
     "static/media/node.png": "/Nofar-Peled-Portfolio/static/media/node.2fd3e69f.png",
+    "static/media/nofar.png": "/Nofar-Peled-Portfolio/static/media/nofar.78dc4e70.png",
+    "static/media/photoshop.png": "/Nofar-Peled-Portfolio/static/media/photoshop.c8b1f393.png",
     "static/media/portfolio.png": "/Nofar-Peled-Portfolio/static/media/portfolio.50ec3fe8.png",
     "static/media/python.png": "/Nofar-Peled-Portfolio/static/media/python.1a286ddf.png",
     "static/media/react.png": "/Nofar-Peled-Portfolio/static/media/react.ce4e3f83.png",
@@ -35,12 +38,13 @@
     "static/media/security.png": "/Nofar-Peled-Portfolio/static/media/security.970410da.png",
     "static/media/tickets.png": "/Nofar-Peled-Portfolio/static/media/tickets.6fbd2d22.png",
     "static/media/vue.png": "/Nofar-Peled-Portfolio/static/media/vue.a233bca5.png",
-    "static/media/weather.png": "/Nofar-Peled-Portfolio/static/media/weather.5e36cf3b.png"
+    "static/media/weather.png": "/Nofar-Peled-Portfolio/static/media/weather.5e36cf3b.png",
+    "static/media/windows.png": "/Nofar-Peled-Portfolio/static/media/windows.07264a50.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f71720e0.js",
-    "static/js/2.c87d0f57.chunk.js",
-    "static/css/main.5bc20394.chunk.css",
-    "static/js/main.a61a7b8d.chunk.js"
+    "static/js/2.23ef73f7.chunk.js",
+    "static/css/main.277505d6.chunk.css",
+    "static/js/main.325afc81.chunk.js"
   ]
 }
