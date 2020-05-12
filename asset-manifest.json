@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/Nofar-Peled-Portfolio/static/css/main.277505d6.chunk.css",
-    "main.js": "/Nofar-Peled-Portfolio/static/js/main.325afc81.chunk.js",
-    "main.js.map": "/Nofar-Peled-Portfolio/static/js/main.325afc81.chunk.js.map",
+    "main.css": "/Nofar-Peled-Portfolio/static/css/main.a5a96573.chunk.css",
+    "main.js": "/Nofar-Peled-Portfolio/static/js/main.8907ff23.chunk.js",
+    "main.js.map": "/Nofar-Peled-Portfolio/static/js/main.8907ff23.chunk.js.map",
     "runtime-main.js": "/Nofar-Peled-Portfolio/static/js/runtime-main.f71720e0.js",
     "runtime-main.js.map": "/Nofar-Peled-Portfolio/static/js/runtime-main.f71720e0.js.map",
-    "static/js/2.23ef73f7.chunk.js": "/Nofar-Peled-Portfolio/static/js/2.23ef73f7.chunk.js",
-    "static/js/2.23ef73f7.chunk.js.map": "/Nofar-Peled-Portfolio/static/js/2.23ef73f7.chunk.js.map",
+    "static/js/2.34519112.chunk.js": "/Nofar-Peled-Portfolio/static/js/2.34519112.chunk.js",
+    "static/js/2.34519112.chunk.js.map": "/Nofar-Peled-Portfolio/static/js/2.34519112.chunk.js.map",
     "index.html": "/Nofar-Peled-Portfolio/index.html",
-    "precache-manifest.a97fa8a846fa8aee56d6b241cf854a4a.js": "/Nofar-Peled-Portfolio/precache-manifest.a97fa8a846fa8aee56d6b241cf854a4a.js",
+    "precache-manifest.f93d12b952d74b6eba60e154f86f4cc2.js": "/Nofar-Peled-Portfolio/precache-manifest.f93d12b952d74b6eba60e154f86f4cc2.js",
     "service-worker.js": "/Nofar-Peled-Portfolio/service-worker.js",
-    "static/css/main.277505d6.chunk.css.map": "/Nofar-Peled-Portfolio/static/css/main.277505d6.chunk.css.map",
-    "static/js/2.23ef73f7.chunk.js.LICENSE.txt": "/Nofar-Peled-Portfolio/static/js/2.23ef73f7.chunk.js.LICENSE.txt",
+    "static/css/main.a5a96573.chunk.css.map": "/Nofar-Peled-Portfolio/static/css/main.a5a96573.chunk.css.map",
+    "static/js/2.34519112.chunk.js.LICENSE.txt": "/Nofar-Peled-Portfolio/static/js/2.34519112.chunk.js.LICENSE.txt",
     "static/media/_global.scss": "/Nofar-Peled-Portfolio/static/media/skyscraper.957ca7a6.jpg",
+    "static/media/Nofar Peled - Developer.docx": "/Nofar-Peled-Portfolio/static/media/Nofar Peled - Developer.bab4d06b.docx",
     "static/media/askem.png": "/Nofar-Peled-Portfolio/static/media/askem.d576e9ce.png",
     "static/media/backend.png": "/Nofar-Peled-Portfolio/static/media/backend.7489a412.png",
     "static/media/covid-19.png": "/Nofar-Peled-Portfolio/static/media/covid-19.a9b52655.png",
@@ -43,8 +44,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f71720e0.js",
-    "static/js/2.23ef73f7.chunk.js",
-    "static/css/main.277505d6.chunk.css",
-    "static/js/main.325afc81.chunk.js"
+    "static/js/2.34519112.chunk.js",
+    "static/css/main.a5a96573.chunk.css",
+    "static/js/main.8907ff23.chunk.js"
   ]
 }
