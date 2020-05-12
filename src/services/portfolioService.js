@@ -141,6 +141,21 @@ const portfolio = {
             _id: 'We0iePEGAUhCXax', 
             title: 'Python',
             imgUrl: 'python',
+        },     
+        {
+            _id: 'slflofPEGAUh230f', 
+            title: 'Photoshop',
+            imgUrl: 'photoshop',
+        },
+        {
+            _id: 'f8jlmw7JDJKif8x', 
+            title: 'Mac OS X',
+            imgUrl: 'macosx',
+        },
+        {
+            _id: '8JDKJ8mlkfhq5', 
+            title: 'Windows',
+            imgUrl: 'windows',
         }
     ],
     skills: [
@@ -183,8 +198,8 @@ const portfolio = {
     ],
     about: {
         title: 'About Nofar',
-        description: 'Dedicated and efficient full stack web developer, Passionate about building web applications, UI&UX and learn about best practices.  \n certified for both frontend & backend technologies. \n Seeking to learn & improve my skills as a full stack web developer / frontend web developer by learning from more seasoned developers the best code practices.',
-        imgUrl: 'https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-1/p320x320/12011274_10206858285849701_1242790494503518292_n.jpg?_nc_cat=111&_nc_sid=dbb9e7&_nc_oc=AQlUPUSCI2Y5tetl952GATSh4c5F92qh7KK--Hulg6cbPKVdkC3uEWtwRVw13gx3hKE&_nc_ht=scontent-frx5-1.xx&_nc_tp=6&oh=e33c21ac939830658a339c427cfcb3e6&oe=5EB54C92'
+        description: 'Dedicated and efficient full stack web developer, Passionate about building web applications, UI&UX and learn about best practices. Certified for both frontend & backend technologies. Seeking to learn & improve my skills as a full stack web developer / frontend web developer by learning from more seasoned developers the best code practices.',
+        imgUrl: 'nofar',
     },
     contact: {
         whatsapp: {
