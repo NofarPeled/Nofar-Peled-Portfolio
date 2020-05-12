@@ -12,6 +12,7 @@
     .footer-credits {
         margin: 0;
     }
+
     .links-list {
         display: flex;
         
@@ -32,8 +33,12 @@
         flex-direction: column;
         justify-content: center;
 
-        .link-list {
-            margin-top: 1rem;
+        .links-list {
+            margin: 0.5rem 0;
+        }
+
+        .footer-credits {
+            margin-top: 0.5rem;
         }
     }
 }

@@ -23,6 +23,12 @@ const About = props => {
                     <p className = 'about-description'>
                         { about.description }
                     </p>
+                    <a 
+                        href = {require('../assets/files/Nofar Peled - Developer.docx')} 
+                        className = 'download-link'
+                    > 
+                        Download Resume 
+                    </a>
                 </div>
                 <img 
                     src = { require(`../assets/images/me/${about.imgUrl}.png`)}

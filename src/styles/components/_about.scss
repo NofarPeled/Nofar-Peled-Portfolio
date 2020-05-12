@@ -2,6 +2,7 @@
     .about-container-div  {
         padding: 40px;
         display: flex;
+        position: relative;
         .about-details {
             margin-right: 2rem;
             width: 60%;      
@@ -19,7 +20,20 @@
             max-height: 50vh;
         }
 
-        @media (max-width:670px) {
+        .download-link {
+            margin-top: 1.5rem;
+            display: inline-block;
+            @include btn-style;
+        }
+
+        @media (min-width: 850px) {
+            .download-link {
+                position: absolute;
+                bottom: 40px;
+                left: 40px;
+            }
+        }
+        @media (max-width:850px) {
             flex-direction: column;
             .about-details {
                 margin-right: 0;
