@@ -55,7 +55,7 @@ const portfolio = {
             description: 'This App Will Allow You to Add, Remove, Edit and Read Tickets from Ticket List. This App Created Using React Hooks, Redux and SCSS.',
             imgUrl: 'tickets',
             tags: ['JavaScript', 'React', 'Hooks', 'Redux', 'SCSS'],
-            codeUrl: 'https://github.com/NofarPeled/ticket-app',
+            codeUrl: 'https://github.com/NofarPeled/Tickets',
             webUrl: 'https://nofarpeled.github.io/ticket-app'
         },
         {
