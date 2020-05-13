@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Nofar-Peled-Portfolio/static/css/main.a5a96573.chunk.css",
-    "main.js": "/Nofar-Peled-Portfolio/static/js/main.4f5d5bbd.chunk.js",
-    "main.js.map": "/Nofar-Peled-Portfolio/static/js/main.4f5d5bbd.chunk.js.map",
+    "main.js": "/Nofar-Peled-Portfolio/static/js/main.0ad0a665.chunk.js",
+    "main.js.map": "/Nofar-Peled-Portfolio/static/js/main.0ad0a665.chunk.js.map",
     "runtime-main.js": "/Nofar-Peled-Portfolio/static/js/runtime-main.f71720e0.js",
     "runtime-main.js.map": "/Nofar-Peled-Portfolio/static/js/runtime-main.f71720e0.js.map",
     "static/js/2.34519112.chunk.js": "/Nofar-Peled-Portfolio/static/js/2.34519112.chunk.js",
     "static/js/2.34519112.chunk.js.map": "/Nofar-Peled-Portfolio/static/js/2.34519112.chunk.js.map",
     "index.html": "/Nofar-Peled-Portfolio/index.html",
-    "precache-manifest.e04d20cc26228a25879c9bd472580211.js": "/Nofar-Peled-Portfolio/precache-manifest.e04d20cc26228a25879c9bd472580211.js",
+    "precache-manifest.1594a04289bd1f78c2eb887c012cda01.js": "/Nofar-Peled-Portfolio/precache-manifest.1594a04289bd1f78c2eb887c012cda01.js",
     "service-worker.js": "/Nofar-Peled-Portfolio/service-worker.js",
     "static/css/main.a5a96573.chunk.css.map": "/Nofar-Peled-Portfolio/static/css/main.a5a96573.chunk.css.map",
     "static/js/2.34519112.chunk.js.LICENSE.txt": "/Nofar-Peled-Portfolio/static/js/2.34519112.chunk.js.LICENSE.txt",
@@ -46,6 +46,6 @@
     "static/js/runtime-main.f71720e0.js",
     "static/js/2.34519112.chunk.js",
     "static/css/main.a5a96573.chunk.css",
-    "static/js/main.4f5d5bbd.chunk.js"
+    "static/js/main.0ad0a665.chunk.js"
   ]
 }
