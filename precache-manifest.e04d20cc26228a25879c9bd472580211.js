@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d2d6b4aea14be5a8f9fee419392d3b8",
+    "revision": "f276256379d0b9980c666415a78948d7",
     "url": "/Nofar-Peled-Portfolio/index.html"
   },
   {
-    "revision": "53ac571d5345288028bd",
+    "revision": "21e13dfcf8a9a46ba9e6",
     "url": "/Nofar-Peled-Portfolio/static/css/main.a5a96573.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nofar-Peled-Portfolio/static/js/2.34519112.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "53ac571d5345288028bd",
-    "url": "/Nofar-Peled-Portfolio/static/js/main.8907ff23.chunk.js"
+    "revision": "21e13dfcf8a9a46ba9e6",
+    "url": "/Nofar-Peled-Portfolio/static/js/main.4f5d5bbd.chunk.js"
   },
   {
     "revision": "9291fa08a34ad8ff4801",
@@ -152,8 +152,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nofar-Peled-Portfolio/static/media/skyscraper.957ca7a6.jpg"
   },
   {
-    "revision": "6fbd2d22a2e38d4def8f9c206faa290f",
-    "url": "/Nofar-Peled-Portfolio/static/media/tickets.6fbd2d22.png"
+    "revision": "65272311da029e62d2ccd65350d2b7ae",
+    "url": "/Nofar-Peled-Portfolio/static/media/tickets.65272311.png"
   },
   {
     "revision": "a233bca52eb614121831772da7ca4db0",

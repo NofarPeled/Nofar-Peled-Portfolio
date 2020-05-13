@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Nofar-Peled-Portfolio/static/css/main.a5a96573.chunk.css",
-    "main.js": "/Nofar-Peled-Portfolio/static/js/main.8907ff23.chunk.js",
-    "main.js.map": "/Nofar-Peled-Portfolio/static/js/main.8907ff23.chunk.js.map",
+    "main.js": "/Nofar-Peled-Portfolio/static/js/main.4f5d5bbd.chunk.js",
+    "main.js.map": "/Nofar-Peled-Portfolio/static/js/main.4f5d5bbd.chunk.js.map",
     "runtime-main.js": "/Nofar-Peled-Portfolio/static/js/runtime-main.f71720e0.js",
     "runtime-main.js.map": "/Nofar-Peled-Portfolio/static/js/runtime-main.f71720e0.js.map",
     "static/js/2.34519112.chunk.js": "/Nofar-Peled-Portfolio/static/js/2.34519112.chunk.js",
     "static/js/2.34519112.chunk.js.map": "/Nofar-Peled-Portfolio/static/js/2.34519112.chunk.js.map",
     "index.html": "/Nofar-Peled-Portfolio/index.html",
-    "precache-manifest.f93d12b952d74b6eba60e154f86f4cc2.js": "/Nofar-Peled-Portfolio/precache-manifest.f93d12b952d74b6eba60e154f86f4cc2.js",
+    "precache-manifest.e04d20cc26228a25879c9bd472580211.js": "/Nofar-Peled-Portfolio/precache-manifest.e04d20cc26228a25879c9bd472580211.js",
     "service-worker.js": "/Nofar-Peled-Portfolio/service-worker.js",
     "static/css/main.a5a96573.chunk.css.map": "/Nofar-Peled-Portfolio/static/css/main.a5a96573.chunk.css.map",
     "static/js/2.34519112.chunk.js.LICENSE.txt": "/Nofar-Peled-Portfolio/static/js/2.34519112.chunk.js.LICENSE.txt",
@@ -37,7 +37,7 @@
     "static/media/responsive.png": "/Nofar-Peled-Portfolio/static/media/responsive.ca463bd8.png",
     "static/media/sass.png": "/Nofar-Peled-Portfolio/static/media/sass.688502bc.png",
     "static/media/security.png": "/Nofar-Peled-Portfolio/static/media/security.970410da.png",
-    "static/media/tickets.png": "/Nofar-Peled-Portfolio/static/media/tickets.6fbd2d22.png",
+    "static/media/tickets.png": "/Nofar-Peled-Portfolio/static/media/tickets.65272311.png",
     "static/media/vue.png": "/Nofar-Peled-Portfolio/static/media/vue.a233bca5.png",
     "static/media/weather.png": "/Nofar-Peled-Portfolio/static/media/weather.5e36cf3b.png",
     "static/media/windows.png": "/Nofar-Peled-Portfolio/static/media/windows.07264a50.png"
@@ -46,6 +46,6 @@
     "static/js/runtime-main.f71720e0.js",
     "static/js/2.34519112.chunk.js",
     "static/css/main.a5a96573.chunk.css",
-    "static/js/main.8907ff23.chunk.js"
+    "static/js/main.4f5d5bbd.chunk.js"
   ]
 }
