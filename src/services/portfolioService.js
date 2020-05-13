@@ -56,7 +56,7 @@ const portfolio = {
             imgUrl: 'tickets',
             tags: ['JavaScript', 'React', 'Hooks', 'Redux', 'SCSS'],
             codeUrl: 'https://github.com/NofarPeled/Tickets',
-            webUrl: 'https://nofarpeled.github.io/ticket-app'
+            webUrl: 'https://nofarpeled.github.io/Tickets'
         },
         {
             _id: 'fdjmmokl88787KDnkfj',
