@@ -24,7 +24,7 @@ const About = props => {
                         { about.description }
                     </p>
                     <a 
-                        href = {require('../assets/files/Nofar Peled - Developer.docx')} 
+                        href = {require('../assets/files/Nofar Peled - Developer.pdf')} 
                         className = 'download-link'
                     > 
                         Download Resume 
