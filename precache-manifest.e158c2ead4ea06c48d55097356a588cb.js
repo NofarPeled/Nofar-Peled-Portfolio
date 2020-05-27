@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a45f82edf12a703e29fc9866f02713cd",
+    "revision": "4e72f400234428183f9e2c8b748c7175",
     "url": "/Nofar-Peled-Portfolio/index.html"
   },
   {
-    "revision": "f88d37bec63dbbf471e6",
+    "revision": "32f688742eb0d1380a9b",
     "url": "/Nofar-Peled-Portfolio/static/css/main.b7bb08da.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nofar-Peled-Portfolio/static/js/2.34519112.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f88d37bec63dbbf471e6",
-    "url": "/Nofar-Peled-Portfolio/static/js/main.f56a35c4.chunk.js"
+    "revision": "32f688742eb0d1380a9b",
+    "url": "/Nofar-Peled-Portfolio/static/js/main.a5e0de11.chunk.js"
   },
   {
     "revision": "9291fa08a34ad8ff4801",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nofar-Peled-Portfolio/static/media/Lato-Regular.2d36b1a9.ttf"
   },
   {
-    "revision": "19affeac7dc0ef98e33f97c979eddf34",
-    "url": "/Nofar-Peled-Portfolio/static/media/Nofar Peled - Developer.19affeac.docx"
+    "revision": "2e8d9c730002f379a5ff4ef3b71907ee",
+    "url": "/Nofar-Peled-Portfolio/static/media/Nofar Peled - Developer.2e8d9c73.docx"
   },
   {
     "revision": "d576e9ced0fb41c5bcb998479dc49347",
