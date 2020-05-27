@@ -163,42 +163,42 @@ const portfolio = {
             _id: 'We0iePEGgj94uu',
             title: 'Frontend',
             imgUrl: 'frontend.png',
-            description: 'Creating Single Page Apps with HTML, SCSS, JavaScript (Vanilla-ES10), Vue & Vuex or React & Redux'
+            description: 'Creating the Frontend Using SCSS, JavaScript (Vanilla-ES10), Vue & Vuex or React & Redux'
         },
         {
             _id: 'We0iePEGgj94dld',
             title: 'Backend',
             imgUrl: 'backend.png',
-            description: 'Creating the Server Side of the Apps using Nodejs and Express'
+            description: 'Creating the Backend Using NodeJs and ExpressJs'
         },
         {
             _id: 'WwdlklEGgj94uu',
             title: 'Responsive',
             imgUrl: 'responsive.png',
-            description: 'Designing Your Website to Look Perfect in Both Mobile & Desktops with Media Queries'
+            description: 'Designing Your Website to Look Great in Mobile & Desktops'
         },
         {
             _id: 'We0iedlfj95du',
             title: 'Design',
             imgUrl: 'design.png',
-            description: 'Designing Your Website Using SCSS with Flexbox, Grid etc'
+            description: 'Designing Your Website Using SCSS with Flex, Grid, Design Libraries and etc'
         },
         {
             _id: 'W9dmv6aK94uu',
             title: 'Database',
             imgUrl: 'database.png',
-            description: 'Creating Databases in MongoDB, with Dynamic Queries'
+            description: 'Storing Your Data Using MongoDB Database with Dynamic Queries'
         },
         {
             _id: 'g8jdKFMF9kkf',
             title: 'Security',
             imgUrl: 'security.png',
-            description: 'Secure Your User Information Usign JWT for Authentication'
+            description: 'Secure Your User Information Using Middleware Authentication with JWT & Sessions'
         }
     ],
     about: {
         title: 'About Nofar',
-        description: 'Dedicated and efficient full stack web developer, Passionate about building web applications, UI&UX and learn about best practices. Certified for both frontend & backend technologies. Seeking to learn & improve my skills as a full stack web developer / frontend web developer by learning from more seasoned developers the best code practices.',
+        description: 'Dedicated and Efficient Fullstack/Frontend Developer, Passionate About Building and Improving Web Applications and UI&UX. Certified for Both Frontend & Backend Technologies. Seeking to Learn and Improve My Skills as a Fullstack/Frontend Developer by Learning from More Seasoned Developers the Best Code Practices.',
         imgUrl: 'nofar',
     },
     contact: {
