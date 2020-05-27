@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Nofar-Peled-Portfolio/precache-manifest.1594a04289bd1f78c2eb887c012cda01.js"
+  "/Nofar-Peled-Portfolio/precache-manifest.1fbb48d80077139347dfb50406589688.js"
 );
 
 self.addEventListener('message', (event) => {

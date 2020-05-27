@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Nofar-Peled-Portfolio/static/css/main.a5a96573.chunk.css",
-    "main.js": "/Nofar-Peled-Portfolio/static/js/main.0ad0a665.chunk.js",
-    "main.js.map": "/Nofar-Peled-Portfolio/static/js/main.0ad0a665.chunk.js.map",
+    "main.css": "/Nofar-Peled-Portfolio/static/css/main.b7bb08da.chunk.css",
+    "main.js": "/Nofar-Peled-Portfolio/static/js/main.f56a35c4.chunk.js",
+    "main.js.map": "/Nofar-Peled-Portfolio/static/js/main.f56a35c4.chunk.js.map",
     "runtime-main.js": "/Nofar-Peled-Portfolio/static/js/runtime-main.f71720e0.js",
     "runtime-main.js.map": "/Nofar-Peled-Portfolio/static/js/runtime-main.f71720e0.js.map",
     "static/js/2.34519112.chunk.js": "/Nofar-Peled-Portfolio/static/js/2.34519112.chunk.js",
     "static/js/2.34519112.chunk.js.map": "/Nofar-Peled-Portfolio/static/js/2.34519112.chunk.js.map",
     "index.html": "/Nofar-Peled-Portfolio/index.html",
-    "precache-manifest.1594a04289bd1f78c2eb887c012cda01.js": "/Nofar-Peled-Portfolio/precache-manifest.1594a04289bd1f78c2eb887c012cda01.js",
+    "precache-manifest.1fbb48d80077139347dfb50406589688.js": "/Nofar-Peled-Portfolio/precache-manifest.1fbb48d80077139347dfb50406589688.js",
     "service-worker.js": "/Nofar-Peled-Portfolio/service-worker.js",
-    "static/css/main.a5a96573.chunk.css.map": "/Nofar-Peled-Portfolio/static/css/main.a5a96573.chunk.css.map",
+    "static/css/main.b7bb08da.chunk.css.map": "/Nofar-Peled-Portfolio/static/css/main.b7bb08da.chunk.css.map",
     "static/js/2.34519112.chunk.js.LICENSE.txt": "/Nofar-Peled-Portfolio/static/js/2.34519112.chunk.js.LICENSE.txt",
     "static/media/_global.scss": "/Nofar-Peled-Portfolio/static/media/skyscraper.957ca7a6.jpg",
-    "static/media/Nofar Peled - Developer.docx": "/Nofar-Peled-Portfolio/static/media/Nofar Peled - Developer.bab4d06b.docx",
+    "static/media/Nofar Peled - Developer.docx": "/Nofar-Peled-Portfolio/static/media/Nofar Peled - Developer.19affeac.docx",
     "static/media/askem.png": "/Nofar-Peled-Portfolio/static/media/askem.d576e9ce.png",
     "static/media/backend.png": "/Nofar-Peled-Portfolio/static/media/backend.7489a412.png",
     "static/media/covid-19.png": "/Nofar-Peled-Portfolio/static/media/covid-19.a9b52655.png",
@@ -37,7 +37,7 @@
     "static/media/responsive.png": "/Nofar-Peled-Portfolio/static/media/responsive.ca463bd8.png",
     "static/media/sass.png": "/Nofar-Peled-Portfolio/static/media/sass.688502bc.png",
     "static/media/security.png": "/Nofar-Peled-Portfolio/static/media/security.970410da.png",
-    "static/media/tickets.png": "/Nofar-Peled-Portfolio/static/media/tickets.65272311.png",
+    "static/media/tickets.png": "/Nofar-Peled-Portfolio/static/media/tickets.23cbb18f.png",
     "static/media/vue.png": "/Nofar-Peled-Portfolio/static/media/vue.a233bca5.png",
     "static/media/weather.png": "/Nofar-Peled-Portfolio/static/media/weather.5e36cf3b.png",
     "static/media/windows.png": "/Nofar-Peled-Portfolio/static/media/windows.07264a50.png"
@@ -45,7 +45,7 @@
   "entrypoints": [
     "static/js/runtime-main.f71720e0.js",
     "static/js/2.34519112.chunk.js",
-    "static/css/main.a5a96573.chunk.css",
-    "static/js/main.0ad0a665.chunk.js"
+    "static/css/main.b7bb08da.chunk.css",
+    "static/js/main.f56a35c4.chunk.js"
   ]
 }
