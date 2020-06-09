@@ -163,7 +163,7 @@ const portfolio = {
             _id: 'We0iePEGgj94uu',
             title: 'Frontend',
             imgUrl: 'frontend.png',
-            description: 'Creating the Frontend Using SCSS, JavaScript (Vanilla-ES10), Vue & Vuex or React & Redux'
+            description: 'Creating the Frontend Using SCSS, JavaScript (ES5-ES9), Vue & Vuex or React & Redux'
         },
         {
             _id: 'We0iePEGgj94dld',
@@ -187,18 +187,18 @@ const portfolio = {
             _id: 'W9dmv6aK94uu',
             title: 'Database',
             imgUrl: 'database.png',
-            description: 'Storing Your Data Using MongoDB Database with Dynamic Queries'
+            description: 'Storing Your Data Using MongoDB Database using Dynamic Queries'
         },
         {
             _id: 'g8jdKFMF9kkf',
             title: 'Security',
             imgUrl: 'security.png',
-            description: 'Secure Your User Information Using Middleware Authentication with JWT & Sessions'
+            description: 'Secure Your User Information Using Middleware Authentication and JWT & Sessions'
         }
     ],
     about: {
         title: 'About Nofar',
-        description: 'Dedicated and Efficient Fullstack/Frontend Developer, Passionate About Building and Improving Web Applications and UI&UX. Certified for Both Frontend & Backend Technologies. Seeking to Learn and Improve My Skills as a Fullstack/Frontend Developer by Learning from More Seasoned Developers the Best Code Practices.',
+        description: 'Dedicated and Efficient Fullstack/Frontend Developer, Passionate About Building and Improving Web Applications and UI & UX. I graduated from Coding Academy bootcamp, and Certified for Both Front-end & Back-end Technologies. Experienced with JavaScript(ES5-ES9), React, Redux, Vue, Vue X, Node Js, Express Js, Mongo DB, Python, Photoshop and More… I’m Highly Motivated, Team Player, Fast Learner,Seeking to Learn and Improve My Skills as a Fullstack/Frontend Developer by Learning from More Seasoned Developers the Best Code Practices.',
         imgUrl: 'nofar',
     },
     contact: {
@@ -231,4 +231,4 @@ const portfolio = {
             link: 'https://www.facebook.com/nofarpeled4'
         }
     }
-}
+};
